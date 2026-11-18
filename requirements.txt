@@ -1,0 +1,8 @@
+backtrader
+flask
+pandas
+numpy
+scikit-learn
+joblib
+requests
+ccxt
